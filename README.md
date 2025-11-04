@@ -44,7 +44,7 @@ Installation and Setup
 
 1. Clone the repository
 
-git clone https://github.com/<your-username>/Sales-Data-Analysis-using-Python.git
+git clone (https://github.com/mayankrvvt/Sales-data-analysis-using-python.git)
 cd Sales-Data-Analysis-using-Python
 
 
